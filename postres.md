@@ -10,3 +10,9 @@ La repostería y la panadería dulce son el arte de combinar azúcar, harinas, g
 **Crème brûlée** Fina crema pastelera de vainilla horneada, cubierta con una crujiente y delicada capa de azúcar caramelizado con soplete.
 
 **Tarta de manzana** Tradicional tarta horneada con finas láminas de manzana sobre una base de masa quebrada, a menudo aromatizada con canela.
+
+## bebidas
+
+-Café espresso
+-Chocolate caliente
+-Vino de postre (Oporto)
