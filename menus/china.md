@@ -8,3 +8,7 @@ La **gastronomía china** es una de las más antiguas y diversas del mundo, basa
 **Dumplings** Pequeñas empanadillas de masa fina rellenas de carne picada y verduras, cocinadas al vapor, hervidas o doradas a la plancha.
 **Pollo Kung Pao** Un plato salteado de pollo tierno con cacahuetes, verduras y chiles secos, caracterizado por su distintivo sabor agridulce y picante.
 
+## Bebidas
+**Te chino**
+**Baijiu**
+**Leche de soja**
