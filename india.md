@@ -8,3 +8,7 @@ La **gastronomía de la India se** caracteriza por su deslumbrante uso de especi
 **Biryani** Un aromático plato de arroz basmati cocinado lentamente con carne o verduras, impregnado de azafrán, ghee y una compleja mezcla de especias.
 **Samosas** Crujientes empanadillas triangulares de masa frita, tradicionalmente rellenas de una sabrosa mezcla de patatas picantes, guisantes y especias.
 
+## Bebidas
+**Lasii**
+**Chai**
+**Thandai**
