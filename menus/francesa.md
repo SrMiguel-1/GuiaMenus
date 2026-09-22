@@ -14,3 +14,8 @@ La **gastronomía francesa** es reconocida mundialmente por su refinamiento, rig
 **Vino francés**
 **Champán**
 **Pastis**
+
+## Recomendaciones
+-Visita una auténtica boulangerie y patisserie local por la mañana para disfrutar de un crujiente cruasán o un pan recién horneado.
+
+-Respeta la estructura clásica de la comida francesa, que suele incluir entrante, plato principal, quesos y un postre dulce.
