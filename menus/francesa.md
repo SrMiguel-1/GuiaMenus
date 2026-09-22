@@ -9,3 +9,8 @@ La **gastronomía francesa** es reconocida mundialmente por su refinamiento, rig
 **Bouillabaisse** Una sopa de pescado y mariscos provenzal muy aromática, elaborada con una mezcla de capturas locales, azafrán, ajo y hierbas, servida con pan y salsa rouille.
 
 **Ratatouille** Un estofado de verduras de origen provenzal que combina berenjenas, calabacines, pimientos, tomates y cebollas, salteados con aceite de oliva y hierbas.
+
+## Bebidas
+**Vino francés**
+**Champán**
+**Pastis**
