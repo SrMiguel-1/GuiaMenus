@@ -14,3 +14,8 @@ La gastronomía vegetariana excluye el consumo de carne y pescado, basando su pr
 -Jugo verde
 -Kombucha
 -Smoothie de frutas
+
+## recomendaciones
+-Combina diferentes fuentes de proteínas vegetales, como legumbres y cereales, para asegurar una nutrición equilibrada y completa.
+
+-Experimenta con una amplia variedad de especias y hierbas aromáticas para realzar el sabor natural de los vegetales sin necesidad de usar carne.
