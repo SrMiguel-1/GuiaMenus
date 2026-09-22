@@ -12,3 +12,8 @@ La **gastronomía de la India se** caracteriza por su deslumbrante uso de especi
 **Lasii**
 **Chai**
 **Thandai**
+
+## Recomendaciones
+
+-Acompaña siempre tus platos principales con pan naan recién horneado para absorber y disfrutar al máximo las salsas y curris.
+-Ten en cuenta que el nivel de picante puede ser muy elevado, por lo que pedir platos menos picantes o usar yogur ayuda a calmar el paladar.
