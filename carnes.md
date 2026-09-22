@@ -7,3 +7,8 @@ La gastronomía centrada en la carne celebra el arte de seleccionar, marinar y c
 **Asado argentino** Una selección de cortes de res de primera calidad cocinados lentamente a las brasas sobre una parrilla, valorando su sabor natural.
 
 **Costillas BBQ** Costillas de cerdo marinadas y horneadas o ahumadas a baja temperatura, bañadas en una salsa barbacoa dulce, ahumada y caramelizada.
+
+## bebidas
+-Vino tinto (Malbec o Cabernet Sauvignon)
+-Cerveza artesanal oscura
+-Whisky
