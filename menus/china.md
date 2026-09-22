@@ -12,3 +12,7 @@ La **gastronomía china** es una de las más antiguas y diversas del mundo, basa
 **Te chino**
 **Baijiu**
 **Leche de soja**
+
+## Recomendaciones
+-Comparte varios platos al centro de la mesa con tus acompañantes para poder probar una mayor variedad de texturas y sabores chinos.
+-Aprende a utilizar los palillos correctamente, y recuerda que apoyar los platos o cuencos cerca de la barbilla al comer es una costumbre muy común.
