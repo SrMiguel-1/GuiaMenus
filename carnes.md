@@ -12,3 +12,8 @@ La gastronomía centrada en la carne celebra el arte de seleccionar, marinar y c
 -Vino tinto (Malbec o Cabernet Sauvignon)
 -Cerveza artesanal oscura
 -Whisky
+
+## recomendaciones
+-Elige el punto de cocción adecuado para cada corte de carne para asegurar que mantenga su jugosidad y textura óptimas.
+
+-Permite que la carne repose unos minutos después de cocinarla antes de cortarla, evitando así que se pierdan sus jugos esenciales.
