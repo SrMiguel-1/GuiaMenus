@@ -9,3 +9,12 @@ La gastronomía mediterránea reúne las tradiciones culinarias de países baña
 **Moussaka** Tradicional pastel griego en capas de berenjenas asadas, carne picada de cordero y salsa bechamel, gratinado al horno hasta dorar.
 
 **Hummus** Una cremosa y suave crema de garbanzos triturados con pasta de sésamo (tahini), zumo de limón y ajo, típica de Oriente Medio.
+
+## Bebidas
+
+**Vino mediterráneo**
+**Ouzo**
+**Agua de Valencia**
+
+
+
