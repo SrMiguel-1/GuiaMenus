@@ -16,5 +16,9 @@ La gastronomía mediterránea reúne las tradiciones culinarias de países baña
 **Ouzo**
 **Agua de Valencia**
 
+## Recomendaciones
 
+-Prioriza el consumo de productos de temporada y de origen local para disfrutar de la máxima frescura y autenticidad en cada receta.
+
+-Disfruta de las comidas sin prisas, adoptando el estilo de vida relajado y de sobremesa característico de la región mediterránea.
 
