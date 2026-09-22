@@ -16,3 +16,9 @@ La repostería y la panadería dulce son el arte de combinar azúcar, harinas, g
 -Café espresso
 -Chocolate caliente
 -Vino de postre (Oporto)
+
+## recomendaciones
+
+-Mide con absoluta precisión cada uno de los ingredientes al hornear, ya que la repostería funciona prácticamente como una ciencia exacta.
+
+-Utiliza ingredientes a temperatura ambiente, especialmente la mantequilla y los huevos, para asegurar que las mezclas emulsionen correctamente.
