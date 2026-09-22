@@ -10,3 +10,7 @@ La gastronomía vegetariana excluye el consumo de carne y pescado, basando su pr
 
 **Curry de garbanzos** Un reconfortante guiso especiado de garbanzos cocinados en leche de coco con espinacas y tomate, ideal para acompañar con arroz.
 
+## bebidas
+-Jugo verde
+-Kombucha
+-Smoothie de frutas
